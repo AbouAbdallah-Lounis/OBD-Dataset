@@ -182,7 +182,7 @@ This dataset can be used for:
 
 ## Citation
 
-Karim Lounis, Hadjer Mekki, and Wissam Hadjab. "DieselOBD: A Real-World OBD-II PID Dataset for Diesel Vehicle Fault Diagnosis", 2025.
+Karim Lounis, Hadjer Mekki, and Wissam Hadjab. "AutoSense-ML: A Multi-Label Machine Learning Solution for Powertrain Fault Detection Using Temporal OBD-II Data". In the Proceedings of the 2026 International Conference on Cybertechnology and Future Networks, November 25-26 (2026), Prague, Czech Republic, Springer, 2026.
 
 ---
 
